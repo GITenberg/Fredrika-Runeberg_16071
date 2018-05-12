@@ -1,0 +1,40 @@
+_repo: Fredrika-Runeberg_16071
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Käkikoski, Hilda Maria
+    aliases:
+    - Sjostrom, Hilda Maria
+    - Kakikoski, Hilda Maria
+    - Sjöström, Hilda Maria
+    birthdate: 1863
+    deathdate: 1912
+    gutenberg_agent_id: '6470'
+    url: http://www.gutenberg.org/2009/agents/6470
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gripenberg, Alexandra, friherrinna
+    alias: Gripenberg, Aleksandra, friherrinna
+    birthdate: 1857
+    deathdate: 1913
+    gutenberg_agent_id: '6827'
+    url: http://www.gutenberg.org/2009/agents/6827
+    wikipedia: http://en.wikipedia.org/wiki/Alexandra_Gripenberg
+description: ''
+gutenberg_issued: '2005-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16071'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Runeberg, Fredrika Charlotta Tengström, 1807-1879'
+- !lcc 'PT'
+- !lcsh 'Authors, Swedish -- 19th century -- Biography'
+title: Fredrika Runeberg
+url: http://www.gutenberg.org/ebooks/16071
